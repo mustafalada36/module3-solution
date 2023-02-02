@@ -35,8 +35,33 @@ body{
 	background-color:#999999;
 	padding: 12px;
 	margin: 18px;
+<<<<<<< HEAD
 	
 }
+=======
+<<<<<<< Updated upstream
+	border: 2px solid black;
+
+
+}
+/*.item-title{
+	position: absolute;
+	top: 0;
+	right: 0px;
+	background: green;
+	border: 1px solid black;
+	padding: 1px 40px;
+ 	 border-left: 2px solid #000;
+ 	 border-bottom: 2px solid #000;	
+ 	 margin-top: -1px;
+ 	 margin-right: -1px;
+ 	 font-size: 13px;
+}*/
+=======
+	
+}
+>>>>>>> Stashed changes
+>>>>>>> 1bab0e027e77600f9e97dcdb9015c701fd982a8c
 
 
 #title-one{
