@@ -52,14 +52,12 @@
   background-color: #999999;
  	border-bottom: 3px solid black;
  	border-top: 3px solid black;
+ 	padding: 20px;
 
 }
 
 
 
-.navbar-brand {
-  padding:30px;
-}
 
 .navbar-brand h1 { /*  name */
   
@@ -72,6 +70,7 @@
     position: relative;
     font-weight: bold;
     margin-top: 0;
+  
     margin-bottom: 0;
     line-height: .75;
     padding-bottom: 20px;
